@@ -1,0 +1,9 @@
+{
+	"name": "saadazurefactory",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "32c670a0-2c97-4fd9-b3ff-52e9e78186c4",
+		"tenantId": "49b84540-eb00-44a6-bfcf-23ffcb66b044"
+	}
+}
